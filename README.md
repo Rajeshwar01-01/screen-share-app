@@ -1,6 +1,6 @@
-# Direct Screen Share
+# LinkUp — Direct Screen Share
 
-A single-page WebRTC demo for sharing a screen between two browsers without an account or application server. The sharer and viewer exchange SDP connection codes manually by copy and paste.
+LinkUp is a single-page WebRTC demo for sharing a screen between two browsers without an account or application server. The sharer and viewer exchange SDP connection codes manually by copy and paste.
 
 ## Use
 1. Publish this repository to GitHub Pages (HTTPS) and open the URL on both devices.
